@@ -1,0 +1,23 @@
+body{
+      background-color: aquamarine;
+
+}
+img{
+    width: 300px;
+    height: auto;
+}
+h1{
+   font size: 50px;
+}
+p{
+  font-size: 15px;
+}
+#img2{
+      width: 400px;
+      height: auto;
+}
+#img3{
+      width: 500;
+      height: auto;
+
+}
